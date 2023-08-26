@@ -13,7 +13,7 @@ public class Home extends JFrame{
     }
     
     public Home(String username) {
-        super("Cab Booking System");
+        super("Easy Ride");
 	this.username = username;
         setForeground(Color.CYAN);
         setLayout(null); 
@@ -26,7 +26,7 @@ public class Home extends JFrame{
 	NewLabel.setBounds(0, 0, 1950, 1000); 
         add(NewLabel);
         
-        JLabel l1 = new JLabel("Transpo Cab");
+        JLabel l1 = new JLabel("EasyRide Cab");
 	l1.setForeground(Color.WHITE);
         l1.setFont(new Font("Tahoma", Font.PLAIN, 55));
 	l1.setBounds(780, 60, 1000, 100);
