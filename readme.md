@@ -5,10 +5,10 @@ The project is a desktop based application that allows the user to book differen
 <img src="https://github.com/DevendraJohari24/CabBookingSystem/blob/main/images/EasyRide.png" alt="" />
 
 Add User
-<img src="https://github.com/DevendraJohari24/CabBookingSystem/blob/main/images/CabBook.png" alt="" />
+<img src="https://github.com/DevendraJohari24/CabBookingSystem/blob/main/images/BookCab.png" alt="" />
 
 Display User
 <img src="https://github.com/DevendraJohari24/CabBookingSystem/blob/main/images/CustomerDetails.png" alt="" />
 
 Book Cab
-<img src="https://github.com/DevendraJohari24/CabBookingSystem/blob/main/images/BookCab.png" alt="" />
+<img src="https://github.com/DevendraJohari24/CabBookingSystem/blob/main/images/CabBook.png" alt="" />
